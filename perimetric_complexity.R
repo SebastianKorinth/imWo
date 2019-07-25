@@ -68,7 +68,7 @@ a <- length(which(item.image == 1))
 
 # See paper 
 if(add.pi == T){
-  ink.complexity <- p^2/a/4*pi
+  ink.complexity <- p^2/(a*4*pi)
 }else{
   ink.complexity <- p^2/a
   }
