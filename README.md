@@ -1,7 +1,6 @@
 imWo 
 ================
 
----------------
 Two functions for the computation of perimetric visual complexity (Pelli, Burns, Farell, & Moore-Page, 2006) of letters, words, symbols etc.
 
 CreateWordImages() creates png files of any kind of characters provided in a data frame.
@@ -12,7 +11,7 @@ Watson, A. (2012). Perimetric Complexity of Binary Digital Images. The Mathemati
 
 Pelli, D. G., Burns, C. W., Farell, B., & Moore-Page, D. C. (2006). Feature detection and letter identification. Vision Research, 46(28), 4646–4674. https://doi.org/10.1016/j.visres.2006.04.023
 
-
+---------------
 
 
 
